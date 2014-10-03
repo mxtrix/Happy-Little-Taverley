@@ -1,0 +1,62 @@
+[------------------------------------------------------------------------------]
+
+    This file contains a list of potential activities, categorised by skill.
+
+[------------------------------------------------------------------------------]
+[------------------------------------------------------------------------------]
+
+
+--> Combat (Attack, Strength, Defence, Range, Magic, Hitpoints, Prayer)
+
+	* Cows (acquire meat + bones + cowhide)
+	* Gelatinious Abominations (acquire Grimy herbs)
+
+--> Mining
+	
+	* Tin, Copper and Clay in Cave SW burthorpe bank
+
+--> Smithing
+	
+	* Bronze bars + bronze equipment SW Burthorpe 
+
+--> Hunter
+	
+	* Trapping Crimson Swifts north of Taverley (acquire birdmeat + feathers)
+
+--> Crafting
+
+	* Cowhide tanning + crafting SW Burthorpe
+	* Clay softening + crafting SW Burthorpe
+
+--> Woodcutting
+
+	* Normal tree cutting (between Burthorpe & Taverley)
+
+--> Firemaking
+
+	* Lighting normal logs (at bank or while woodcutting/cooking)
+
+--> Fletching
+
+	* Arrow shafts from normal logs
+	* Headless arrows (from Arrow shafts + Feathers)
+	* Bronze arrows (from Feathers + Headless arrows)
+
+--> Fishing
+
+	* Crayfish north of Taverley
+
+--> Cooking
+
+	* Cooking Crayfish
+	* Cooking Cow meat
+	* Cooking Birdmeat
+
+--> Theiving
+
+	* Pickpocket Pompus Merchants NW of Taverley
+
+--> Herblore
+
+	* Cleaning herbs obtained from Gelatinous Abominations
+

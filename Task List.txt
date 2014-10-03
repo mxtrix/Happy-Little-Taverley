@@ -59,4 +59,7 @@
 --> Herblore
 
 	* Cleaning herbs obtained from Gelatinous Abominations
+	
+--> Agility
+	* Burthorpe Agility Course
 
